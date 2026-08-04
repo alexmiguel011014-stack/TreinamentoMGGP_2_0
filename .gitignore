@@ -1,0 +1,30 @@
+# Repos de referencia (baixados pelo bootstrap)
+external/
+
+# Grafo de conhecimento
+graphify-out/
+
+# Mapa XML do RepoMix
+repomix-output.xml
+
+# Node
+node_modules/
+
+# Python
+.venv/
+venv/
+__pycache__/
+
+# opencode (ambiente local)
+.opencode/
+
+# Resultados PC1 (descartados por resultados ruins/duplicados)
+RESULTADOS_1/
+
+# Figuras de convergencia dos modelos (pesadas, ~230 MB)
+RESULTADOS-2/**/modelo_*.png
+RESULTADOS-3/**/modelo_*.png
+
+# SO
+.DS_Store
+Thumbs.db

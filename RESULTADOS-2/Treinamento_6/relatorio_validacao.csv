@@ -1,0 +1,41 @@
+Modelo;Pista;MAPE_Vx (%);MAPE_Vy (%);MAPE_Médio (%)
+modelo_mape_1.pkl;Wang 2.1 (Treino);3,16;4,24;3,7
+modelo_mape_1.pkl;Wang 2.2 (Validação);2,41;4,96;3,68
+modelo_mape_1.pkl;Wang 3.1 (Teste A);2,44;3,74;3,09
+modelo_mape_1.pkl;Wang 8.1 (Teste B);1,06;7,18;4,12
+modelo_mape_10.pkl;Wang 2.1 (Treino);1,25;4,24;2,74
+modelo_mape_10.pkl;Wang 2.2 (Validação);0,89;4,93;2,91
+modelo_mape_10.pkl;Wang 3.1 (Teste A);1,24;3,74;2,49
+modelo_mape_10.pkl;Wang 8.1 (Teste B);0,68;7,18;3,93
+modelo_mape_2.pkl;Wang 2.1 (Treino);1,22;4,24;2,73
+modelo_mape_2.pkl;Wang 2.2 (Validação);0,89;4,93;2,91
+modelo_mape_2.pkl;Wang 3.1 (Teste A);1,37;3,74;2,56
+modelo_mape_2.pkl;Wang 8.1 (Teste B);0,67;7,18;3,92
+modelo_mape_3.pkl;Wang 2.1 (Treino);1,4;4,23;2,82
+modelo_mape_3.pkl;Wang 2.2 (Validação);1,18;4,83;3,0
+modelo_mape_3.pkl;Wang 3.1 (Teste A);1,7;3,78;2,74
+modelo_mape_3.pkl;Wang 8.1 (Teste B);1,01;7,25;4,13
+modelo_mape_4.pkl;Wang 2.1 (Treino);1,25;4,24;2,75
+modelo_mape_4.pkl;Wang 2.2 (Validação);0,88;4,96;2,92
+modelo_mape_4.pkl;Wang 3.1 (Teste A);1,24;3,74;2,49
+modelo_mape_4.pkl;Wang 8.1 (Teste B);0,67;7,18;3,92
+modelo_mape_5.pkl;Wang 2.1 (Treino);1,22;4,24;2,73
+modelo_mape_5.pkl;Wang 2.2 (Validação);0,9;4,93;2,92
+modelo_mape_5.pkl;Wang 3.1 (Teste A);1,32;3,74;2,53
+modelo_mape_5.pkl;Wang 8.1 (Teste B);0,69;7,18;3,93
+modelo_mape_6.pkl;Wang 2.1 (Treino);1,2;4,23;2,72
+modelo_mape_6.pkl;Wang 2.2 (Validação);0,87;4,83;2,85
+modelo_mape_6.pkl;Wang 3.1 (Teste A);1,32;3,78;2,55
+modelo_mape_6.pkl;Wang 8.1 (Teste B);0,62;7,25;3,94
+modelo_mape_7.pkl;Wang 2.1 (Treino);1,2;4,24;2,72
+modelo_mape_7.pkl;Wang 2.2 (Validação);0,89;4,93;2,91
+modelo_mape_7.pkl;Wang 3.1 (Teste A);1,44;3,74;2,59
+modelo_mape_7.pkl;Wang 8.1 (Teste B);0,62;7,18;3,9
+modelo_mape_8.pkl;Wang 2.1 (Treino);1,24;4,24;2,74
+modelo_mape_8.pkl;Wang 2.2 (Validação);0,93;4,93;2,93
+modelo_mape_8.pkl;Wang 3.1 (Teste A);1,41;3,74;2,58
+modelo_mape_8.pkl;Wang 8.1 (Teste B);0,75;7,18;3,96
+modelo_mape_9.pkl;Wang 2.1 (Treino);6,99;4,24;5,62
+modelo_mape_9.pkl;Wang 2.2 (Validação);1,61;4,93;3,27
+modelo_mape_9.pkl;Wang 3.1 (Teste A);4,35;3,74;4,05
+modelo_mape_9.pkl;Wang 8.1 (Teste B);1,29;7,18;4,23

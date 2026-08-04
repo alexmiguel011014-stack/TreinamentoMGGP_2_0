@@ -1,0 +1,16 @@
+Parametro,Valor
+nDelays,"[1, 2, 5, 10, 25, 50]"
+generations,300
+populationSize,300
+evaluationMode,MAPE
+k,300
+evaluationType,MShooting
+evaluationTypeTest,FreeRun
+nTerms,1
+maxHeight,5
+mutationRate,0.3
+crossoverRate,0.8
+elitePercentage,10
+mode,MIMO
+froe_mode,False
+operators,"['add', 'subtraction', 'mul']"
