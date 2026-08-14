@@ -1,0 +1,21 @@
+pasta,treinamento,modelo,pista,rmse_vx,rmse_vy,rmse_medio
+RESULTADOS-1,9,modelo_rmse_2.pkl,Wang 2.1 (Treino),9.6016,7627668.1352,3813838.8684
+RESULTADOS-1,11,modelo_rmse_2.pkl,Wang 2.1 (Treino),11.7538,inf,inf
+RESULTADOS-1,14,modelo_rmse_7.pkl,Wang 2.1 (Treino),11.5745,inf,inf
+RESULTADOS-1,19,modelo_rmse_9.pkl,Wang 2.1 (Treino),inf,inf,inf
+RESULTADOS-3,10,modelo_rmse_5.pkl,Wang 2.1 (Treino),0.9513,inf,inf
+RESULTADOS-3,10,modelo_rmse_5.pkl,Wang 3.1 (Teste A),0.8452,inf,inf
+RESULTADOS-3,14,modelo_rmse_1.pkl,Wang 2.1 (Treino),0.9726,inf,inf
+RESULTADOS-3,28,modelo_rmse_1.pkl,Wang 2.1 (Treino),3.3550475131951386e+18,0.2319,1.6775237565975693e+18
+RESULTADOS-3,28,modelo_rmse_4.pkl,Wang 2.1 (Treino),3.2609556244060515e+25,5.521384474664437e+20,1.6305054191253991e+25
+RESULTADOS-3,28,modelo_rmse_4.pkl,Wang 3.1 (Teste A),155428.9396,2.541,77715.7403
+RESULTADOS-3,33,modelo_rmse_9.pkl,Wang 2.1 (Treino),90817547471126.02,0.2906,45408773735563.16
+RESULTADOS-3,39,modelo_rmse_8.pkl,Wang 2.1 (Treino),8.475884415742736e+25,2.694289106425348e+22,4.239289352424581e+25
+RESULTADOS-3,39,modelo_rmse_8.pkl,Wang 3.1 (Teste A),263648.6106,78.5966,131863.6036
+RESULTADOS-3,40,modelo_rmse_2.pkl,Wang 2.1 (Treino),5.977133276485773e+17,0.245,2.9885666382428864e+17
+RESULTADOS-3,40,modelo_rmse_2.pkl,Wang 3.1 (Teste A),1050.8317,0.2713,525.5515
+RESULTADOS-3,42,modelo_rmse_4.pkl,Wang 2.1 (Treino),4552595798.8284,1478957.4324,2277037378.1304
+RESULTADOS-3,46,modelo_rmse_4.pkl,Wang 2.1 (Treino),9.01703015502021e+20,0.2778,4.508515077510105e+20
+RESULTADOS-3,46,modelo_rmse_4.pkl,Wang 3.1 (Teste A),4856.9301,0.2202,2428.5752
+RESULTADOS-3,47,modelo_rmse_2.pkl,Wang 2.1 (Treino),1.0651850344399374e+20,2.8780126887953988e+16,5.3273641785440846e+19
+RESULTADOS-3,47,modelo_rmse_2.pkl,Wang 3.1 (Teste A),10816.9804,3.9429,5410.4616

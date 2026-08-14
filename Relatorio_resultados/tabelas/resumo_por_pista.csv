@@ -1,0 +1,5 @@
+pista,n_registros,rmse_min,rmse_max,rmse_media,rmse_mediana
+Wang 2.1 (Treino),1006,0.2334,50.0112,1.4909,0.5154
+Wang 2.2 (Validação),1020,0.1278,34.435,0.8798,0.466
+Wang 3.1 (Teste A),1014,0.1847,42.4231,1.2375,0.4473
+Wang 8.1 (Teste B),1020,0.1799,6.0217,1.1344,0.6058

@@ -1,0 +1,1021 @@
+ranking,pasta,treinamento,nDelays,nTerms,maxHeight,modelo,n_pistas_validas,rmse_medio_modelo
+1,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_9.pkl,4,0.2138
+2,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_2.pkl,4,0.2182
+3,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_6.pkl,4,0.2239
+4,RESULTADOS-1,49,[1],7,7,modelo_rmse_3.pkl,4,0.2317
+5,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_3.pkl,4,0.2324
+6,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_3.pkl,4,0.2361
+7,RESULTADOS-1,49,[1],7,7,modelo_rmse_7.pkl,4,0.2377
+8,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_3.pkl,4,0.2383
+9,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_10.pkl,4,0.2395
+10,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_7.pkl,4,0.2401
+11,RESULTADOS-1,32,[1],5,4,modelo_rmse_1.pkl,4,0.2407
+12,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_7.pkl,4,0.2427
+13,RESULTADOS-1,49,[1],7,7,modelo_rmse_10.pkl,4,0.2432
+14,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_1.pkl,4,0.2454
+15,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_4.pkl,4,0.2477
+16,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_7.pkl,4,0.251
+17,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_10.pkl,4,0.2522
+18,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_6.pkl,4,0.2526
+19,RESULTADOS-1,31,[1],5,3,modelo_rmse_4.pkl,4,0.2576
+20,RESULTADOS-1,33,[1],5,5,modelo_rmse_3.pkl,4,0.258
+21,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_6.pkl,4,0.2586
+22,RESULTADOS-1,37,[1],6,2,modelo_rmse_2.pkl,4,0.2589
+23,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_3.pkl,4,0.2591
+24,RESULTADOS-1,38,[1],6,3,modelo_rmse_3.pkl,4,0.2594
+25,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_5.pkl,4,0.2602
+26,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_4.pkl,4,0.2618
+27,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_5.pkl,4,0.2644
+28,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_4.pkl,4,0.2652
+29,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_7.pkl,4,0.2658
+30,RESULTADOS-1,37,[1],6,2,modelo_rmse_5.pkl,4,0.2664
+31,RESULTADOS-1,31,[1],5,3,modelo_rmse_2.pkl,4,0.2666
+32,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_9.pkl,4,0.2671
+33,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_3.pkl,4,0.2687
+34,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_4.pkl,4,0.2689
+35,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_9.pkl,4,0.2689
+36,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_3.pkl,4,0.2692
+37,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_2.pkl,4,0.2694
+38,RESULTADOS-1,37,[1],6,2,modelo_rmse_6.pkl,4,0.2699
+39,RESULTADOS-1,38,[1],6,3,modelo_rmse_8.pkl,4,0.2701
+40,RESULTADOS-1,32,[1],5,4,modelo_rmse_10.pkl,4,0.2703
+41,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_3.pkl,4,0.271
+42,RESULTADOS-1,30,[1],5,2,modelo_rmse_3.pkl,4,0.2711
+43,RESULTADOS-1,49,[1],7,7,modelo_rmse_4.pkl,4,0.2723
+44,RESULTADOS-1,27,[1],4,6,modelo_rmse_2.pkl,4,0.2744
+45,RESULTADOS-1,38,[1],6,3,modelo_rmse_4.pkl,4,0.2746
+46,RESULTADOS-1,34,[1],5,6,modelo_rmse_8.pkl,4,0.2749
+47,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_1.pkl,4,0.275
+48,RESULTADOS-1,37,[1],6,2,modelo_rmse_3.pkl,4,0.2766
+49,RESULTADOS-1,34,[1],5,6,modelo_rmse_9.pkl,4,0.2772
+50,RESULTADOS-1,30,[1],5,2,modelo_rmse_6.pkl,4,0.2787
+51,RESULTADOS-1,37,[1],6,2,modelo_rmse_4.pkl,4,0.2791
+52,RESULTADOS-1,30,[1],5,2,modelo_rmse_4.pkl,4,0.2798
+53,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_10.pkl,4,0.2801
+54,RESULTADOS-1,49,[1],7,7,modelo_rmse_5.pkl,4,0.2808
+55,RESULTADOS-1,30,[1],5,2,modelo_rmse_10.pkl,4,0.2809
+56,RESULTADOS-1,32,[1],5,4,modelo_rmse_3.pkl,4,0.2809
+57,RESULTADOS-1,37,[1],6,2,modelo_rmse_10.pkl,4,0.2818
+58,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_6.pkl,4,0.2818
+59,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_2.pkl,4,0.2823
+60,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_10.pkl,4,0.2832
+61,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_7.pkl,4,0.2833
+62,RESULTADOS-1,35,[1],5,7,modelo_rmse_9.pkl,4,0.2835
+63,RESULTADOS-1,33,[1],5,5,modelo_rmse_6.pkl,4,0.2839
+64,RESULTADOS-1,31,[1],5,3,modelo_rmse_10.pkl,4,0.2847
+65,RESULTADOS-1,33,[1],5,5,modelo_rmse_8.pkl,4,0.2849
+66,RESULTADOS-1,37,[1],6,2,modelo_rmse_7.pkl,4,0.2853
+67,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_6.pkl,4,0.2854
+68,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_2.pkl,4,0.2864
+69,RESULTADOS-1,49,[1],7,7,modelo_rmse_1.pkl,4,0.2866
+70,RESULTADOS-1,37,[1],6,2,modelo_rmse_1.pkl,4,0.2875
+71,RESULTADOS-1,38,[1],6,3,modelo_rmse_10.pkl,4,0.2878
+72,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_2.pkl,4,0.2878
+73,RESULTADOS-1,30,[1],5,2,modelo_rmse_8.pkl,4,0.2882
+74,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_10.pkl,4,0.2883
+75,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_8.pkl,4,0.2888
+76,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_10.pkl,4,0.2888
+77,RESULTADOS-1,30,[1],5,2,modelo_rmse_9.pkl,4,0.2891
+78,RESULTADOS-1,37,[1],6,2,modelo_rmse_8.pkl,4,0.2897
+79,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_5.pkl,4,0.2898
+80,RESULTADOS-1,37,[1],6,2,modelo_rmse_9.pkl,4,0.2899
+81,RESULTADOS-1,25,[1],4,4,modelo_rmse_4.pkl,4,0.2903
+82,RESULTADOS-1,24,[1],4,3,modelo_rmse_1.pkl,4,0.2905
+83,RESULTADOS-1,30,[1],5,2,modelo_rmse_1.pkl,4,0.2906
+84,RESULTADOS-1,38,[1],6,3,modelo_rmse_1.pkl,4,0.2908
+85,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_5.pkl,4,0.2915
+86,RESULTADOS-1,30,[1],5,2,modelo_rmse_7.pkl,4,0.2919
+87,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_9.pkl,4,0.2929
+88,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_6.pkl,4,0.293
+89,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_8.pkl,4,0.293
+90,RESULTADOS-1,33,[1],5,5,modelo_rmse_1.pkl,4,0.2948
+91,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_6.pkl,4,0.2957
+92,RESULTADOS-1,25,[1],4,4,modelo_rmse_5.pkl,4,0.2965
+93,RESULTADOS-1,30,[1],5,2,modelo_rmse_5.pkl,4,0.2972
+94,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_7.pkl,4,0.2973
+95,RESULTADOS-1,32,[1],5,4,modelo_rmse_7.pkl,4,0.298
+96,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_9.pkl,4,0.3
+97,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_10.pkl,4,0.3001
+98,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_2.pkl,4,0.3001
+99,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_6.pkl,4,0.3003
+100,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_4.pkl,4,0.3012
+101,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_1.pkl,4,0.3015
+102,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_3.pkl,4,0.3022
+103,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_5.pkl,4,0.3023
+104,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_4.pkl,4,0.3035
+105,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_9.pkl,4,0.304
+106,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_3.pkl,4,0.3044
+107,RESULTADOS-1,26,[1],4,5,modelo_rmse_10.pkl,4,0.3063
+108,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_5.pkl,4,0.3064
+109,RESULTADOS-1,24,[1],4,3,modelo_rmse_6.pkl,4,0.309
+110,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_10.pkl,4,0.3092
+111,RESULTADOS-1,24,[1],4,3,modelo_rmse_9.pkl,4,0.3124
+112,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_2.pkl,4,0.3128
+113,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_2.pkl,4,0.3131
+114,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_6.pkl,4,0.3131
+115,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_6.pkl,4,0.3133
+116,RESULTADOS-1,30,[1],5,2,modelo_rmse_2.pkl,4,0.314
+117,RESULTADOS-1,38,[1],6,3,modelo_rmse_2.pkl,4,0.3141
+118,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_3.pkl,4,0.3157
+119,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_1.pkl,4,0.3163
+120,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_8.pkl,4,0.3175
+121,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_5.pkl,4,0.3178
+122,RESULTADOS-1,26,[1],4,5,modelo_rmse_2.pkl,4,0.3184
+123,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_6.pkl,4,0.319
+124,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_4.pkl,4,0.3191
+125,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_8.pkl,4,0.3194
+126,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_9.pkl,4,0.3199
+127,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_3.pkl,4,0.3203
+128,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_10.pkl,4,0.3204
+129,RESULTADOS-1,21,[1],3,7,modelo_rmse_6.pkl,4,0.3206
+130,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_8.pkl,4,0.3218
+131,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_8.pkl,4,0.3224
+132,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_4.pkl,4,0.323
+133,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_9.pkl,4,0.323
+134,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_10.pkl,4,0.323
+135,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_5.pkl,4,0.3236
+136,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_7.pkl,4,0.3237
+137,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_6.pkl,4,0.3241
+138,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_5.pkl,4,0.3242
+139,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_10.pkl,4,0.3247
+140,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_1.pkl,4,0.325
+141,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_6.pkl,4,0.3251
+142,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_7.pkl,4,0.3255
+143,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_1.pkl,4,0.326
+144,RESULTADOS-1,36,[1],6,1,modelo_rmse_10.pkl,4,0.3266
+145,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_7.pkl,4,0.3268
+146,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_5.pkl,4,0.3279
+147,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_6.pkl,4,0.3282
+148,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_3.pkl,4,0.3286
+149,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_6.pkl,4,0.3286
+150,RESULTADOS-1,34,[1],5,6,modelo_rmse_1.pkl,4,0.3289
+151,RESULTADOS-1,32,[1],5,4,modelo_rmse_9.pkl,4,0.3303
+152,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_4.pkl,4,0.331
+153,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_1.pkl,4,0.3311
+154,RESULTADOS-1,36,[1],6,1,modelo_rmse_7.pkl,4,0.3317
+155,RESULTADOS-1,36,[1],6,1,modelo_rmse_4.pkl,4,0.3323
+156,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_7.pkl,4,0.3326
+157,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_2.pkl,4,0.3327
+158,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_10.pkl,4,0.3337
+159,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_1.pkl,4,0.3338
+160,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_5.pkl,4,0.3341
+161,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_8.pkl,4,0.3359
+162,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_8.pkl,4,0.3362
+163,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_9.pkl,4,0.3362
+164,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_7.pkl,4,0.3376
+165,RESULTADOS-1,29,[1],5,1,modelo_rmse_3.pkl,4,0.3401
+166,RESULTADOS-1,29,[1],5,1,modelo_rmse_10.pkl,4,0.3401
+167,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_2.pkl,4,0.3403
+168,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_5.pkl,4,0.3416
+169,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_5.pkl,4,0.3422
+170,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_1.pkl,4,0.3432
+171,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_5.pkl,4,0.3434
+172,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_8.pkl,4,0.3435
+173,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_8.pkl,4,0.3435
+174,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_10.pkl,4,0.3444
+175,RESULTADOS-1,29,[1],5,1,modelo_rmse_2.pkl,4,0.3446
+176,RESULTADOS-1,29,[1],5,1,modelo_rmse_5.pkl,4,0.3446
+177,RESULTADOS-1,29,[1],5,1,modelo_rmse_7.pkl,4,0.3446
+178,RESULTADOS-1,29,[1],5,1,modelo_rmse_8.pkl,4,0.3446
+179,RESULTADOS-1,29,[1],5,1,modelo_rmse_9.pkl,4,0.3446
+180,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_7.pkl,4,0.3454
+181,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_3.pkl,4,0.3457
+182,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_6.pkl,4,0.3457
+183,RESULTADOS-1,35,[1],5,7,modelo_rmse_7.pkl,4,0.3466
+184,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_1.pkl,4,0.3468
+185,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_1.pkl,4,0.3472
+186,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_10.pkl,4,0.3483
+187,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_1.pkl,4,0.3489
+188,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_2.pkl,4,0.3499
+189,RESULTADOS-1,49,[1],7,7,modelo_rmse_9.pkl,4,0.3511
+190,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_10.pkl,4,0.3518
+191,RESULTADOS-1,36,[1],6,1,modelo_rmse_2.pkl,4,0.3522
+192,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_10.pkl,4,0.3524
+193,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_9.pkl,4,0.3533
+194,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_3.pkl,4,0.3535
+195,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_3.pkl,4,0.3544
+196,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_7.pkl,4,0.3547
+197,RESULTADOS-1,36,[1],6,1,modelo_rmse_6.pkl,4,0.3548
+198,RESULTADOS-1,36,[1],6,1,modelo_rmse_1.pkl,4,0.3549
+199,RESULTADOS-1,36,[1],6,1,modelo_rmse_9.pkl,4,0.3549
+200,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_8.pkl,4,0.3553
+201,RESULTADOS-1,36,[1],6,1,modelo_rmse_3.pkl,4,0.3557
+202,RESULTADOS-1,36,[1],6,1,modelo_rmse_5.pkl,4,0.3557
+203,RESULTADOS-1,36,[1],6,1,modelo_rmse_8.pkl,4,0.3557
+204,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_1.pkl,4,0.356
+205,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_4.pkl,4,0.3566
+206,RESULTADOS-1,35,[1],5,7,modelo_rmse_3.pkl,4,0.3581
+207,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_4.pkl,4,0.3581
+208,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_8.pkl,4,0.3582
+209,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_6.pkl,4,0.3588
+210,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_6.pkl,4,0.3591
+211,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_9.pkl,4,0.3599
+212,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_2.pkl,4,0.3609
+213,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_7.pkl,4,0.3611
+214,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_7.pkl,4,0.3619
+215,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_5.pkl,4,0.362
+216,RESULTADOS-1,35,[1],5,7,modelo_rmse_8.pkl,4,0.3624
+217,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_6.pkl,4,0.3624
+218,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_8.pkl,4,0.365
+219,RESULTADOS-1,26,[1],4,5,modelo_rmse_6.pkl,4,0.3662
+220,RESULTADOS-1,29,[1],5,1,modelo_rmse_6.pkl,4,0.3666
+221,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_1.pkl,4,0.367
+222,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_1.pkl,4,0.3674
+223,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_10.pkl,4,0.3677
+224,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_10.pkl,4,0.368
+225,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_7.pkl,4,0.3684
+226,RESULTADOS-1,22,[1],4,1,modelo_rmse_5.pkl,4,0.3691
+227,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_3.pkl,4,0.3692
+228,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_4.pkl,4,0.3697
+229,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_9.pkl,4,0.3702
+230,RESULTADOS-1,35,[1],5,7,modelo_rmse_2.pkl,4,0.3706
+231,RESULTADOS-1,35,[1],5,7,modelo_rmse_5.pkl,4,0.3711
+232,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_9.pkl,4,0.3715
+233,RESULTADOS-1,35,[1],5,7,modelo_rmse_1.pkl,4,0.3728
+234,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_2.pkl,4,0.373
+235,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_4.pkl,4,0.374
+236,RESULTADOS-3,48,"[1, 2, 5, 10]",7,6,modelo_rmse_4.pkl,4,0.3741
+237,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_3.pkl,4,0.3753
+238,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_7.pkl,4,0.3758
+239,RESULTADOS-1,29,[1],5,1,modelo_rmse_1.pkl,4,0.3765
+240,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_9.pkl,4,0.3768
+241,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_7.pkl,4,0.3772
+242,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_2.pkl,4,0.3774
+243,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_6.pkl,4,0.3775
+244,RESULTADOS-1,27,[1],4,6,modelo_rmse_7.pkl,4,0.3777
+245,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_5.pkl,4,0.3782
+246,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_3.pkl,4,0.3782
+247,RESULTADOS-1,34,[1],5,6,modelo_rmse_2.pkl,4,0.3792
+248,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_10.pkl,4,0.3801
+249,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_8.pkl,4,0.3804
+250,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_1.pkl,4,0.3828
+251,RESULTADOS-1,35,[1],5,7,modelo_rmse_4.pkl,4,0.3841
+252,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_2.pkl,4,0.3847
+253,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_5.pkl,4,0.386
+254,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_3.pkl,4,0.3863
+255,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_1.pkl,4,0.3863
+256,RESULTADOS-1,29,[1],5,1,modelo_rmse_4.pkl,4,0.3865
+257,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_4.pkl,4,0.3874
+258,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_9.pkl,4,0.3881
+259,RESULTADOS-1,33,[1],5,5,modelo_rmse_9.pkl,4,0.3885
+260,RESULTADOS-1,34,[1],5,6,modelo_rmse_10.pkl,4,0.3887
+261,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_10.pkl,4,0.3893
+262,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_7.pkl,4,0.3897
+263,RESULTADOS-1,25,[1],4,4,modelo_rmse_6.pkl,4,0.3898
+264,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_2.pkl,4,0.3899
+265,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_8.pkl,4,0.39
+266,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_3.pkl,4,0.3903
+267,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_2.pkl,4,0.3905
+268,RESULTADOS-1,26,[1],4,5,modelo_rmse_1.pkl,4,0.3906
+269,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_2.pkl,4,0.3908
+270,RESULTADOS-1,24,[1],4,3,modelo_rmse_8.pkl,4,0.3916
+271,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_1.pkl,4,0.3921
+272,RESULTADOS-1,28,[1],4,7,modelo_rmse_8.pkl,4,0.3922
+273,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_3.pkl,4,0.3936
+274,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_5.pkl,4,0.3937
+275,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_5.pkl,4,0.3939
+276,RESULTADOS-1,35,[1],5,7,modelo_rmse_6.pkl,4,0.3944
+277,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_8.pkl,4,0.3945
+278,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_9.pkl,4,0.3946
+279,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_9.pkl,4,0.3952
+280,RESULTADOS-1,22,[1],4,1,modelo_rmse_2.pkl,4,0.3954
+281,RESULTADOS-1,34,[1],5,6,modelo_rmse_7.pkl,4,0.3955
+282,RESULTADOS-1,21,[1],3,7,modelo_rmse_3.pkl,4,0.3958
+283,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_10.pkl,4,0.3958
+284,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_3.pkl,4,0.3974
+285,RESULTADOS-1,22,[1],4,1,modelo_rmse_4.pkl,4,0.3983
+286,RESULTADOS-1,22,[1],4,1,modelo_rmse_10.pkl,4,0.3983
+287,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_4.pkl,4,0.3987
+288,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_7.pkl,4,0.3987
+289,RESULTADOS-1,49,[1],7,7,modelo_rmse_8.pkl,4,0.3988
+290,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_9.pkl,4,0.3991
+291,RESULTADOS-1,27,[1],4,6,modelo_rmse_5.pkl,4,0.3993
+292,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_6.pkl,4,0.3993
+293,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_6.pkl,4,0.3997
+294,RESULTADOS-1,33,[1],5,5,modelo_rmse_5.pkl,4,0.3998
+295,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_2.pkl,4,0.4004
+296,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_4.pkl,4,0.4014
+297,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_6.pkl,4,0.4026
+298,RESULTADOS-3,41,"[1, 2, 5, 10]",6,6,modelo_rmse_1.pkl,4,0.4052
+299,RESULTADOS-1,33,[1],5,5,modelo_rmse_4.pkl,4,0.4053
+300,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_4.pkl,4,0.4059
+301,RESULTADOS-3,49,"[1, 2, 5, 10]",7,7,modelo_rmse_5.pkl,4,0.4078
+302,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_8.pkl,4,0.4081
+303,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_8.pkl,4,0.4086
+304,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_8.pkl,4,0.4097
+305,RESULTADOS-1,34,[1],5,6,modelo_rmse_5.pkl,4,0.41
+306,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_9.pkl,4,0.4101
+307,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_9.pkl,4,0.4116
+308,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_6.pkl,4,0.4117
+309,RESULTADOS-1,49,[1],7,7,modelo_rmse_2.pkl,4,0.4131
+310,RESULTADOS-1,27,[1],4,6,modelo_rmse_8.pkl,4,0.4135
+311,RESULTADOS-1,49,[1],7,7,modelo_rmse_6.pkl,4,0.4139
+312,RESULTADOS-1,34,[1],5,6,modelo_rmse_6.pkl,4,0.4149
+313,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_6.pkl,4,0.4164
+314,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_3.pkl,4,0.4182
+315,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_5.pkl,4,0.4184
+316,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_10.pkl,4,0.4191
+317,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_7.pkl,4,0.4192
+318,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_8.pkl,4,0.4194
+319,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_4.pkl,4,0.42
+320,RESULTADOS-1,28,[1],4,7,modelo_rmse_5.pkl,4,0.4206
+321,RESULTADOS-1,27,[1],4,6,modelo_rmse_9.pkl,4,0.4221
+322,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_3.pkl,4,0.4224
+323,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_4.pkl,4,0.4224
+324,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_1.pkl,4,0.4225
+325,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_5.pkl,4,0.4225
+326,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_9.pkl,4,0.4225
+327,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_2.pkl,4,0.4228
+328,RESULTADOS-1,32,[1],5,4,modelo_rmse_5.pkl,4,0.423
+329,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_3.pkl,4,0.4232
+330,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_2.pkl,4,0.4269
+331,RESULTADOS-3,44,"[1, 2, 5, 10]",7,2,modelo_rmse_2.pkl,4,0.4283
+332,RESULTADOS-1,35,[1],5,7,modelo_rmse_10.pkl,4,0.4286
+333,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_7.pkl,4,0.4292
+334,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_7.pkl,4,0.4318
+335,RESULTADOS-1,28,[1],4,7,modelo_rmse_2.pkl,4,0.432
+336,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_2.pkl,4,0.4322
+337,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_3.pkl,4,0.4325
+338,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_1.pkl,4,0.4325
+339,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_7.pkl,4,0.4335
+340,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_9.pkl,4,0.4336
+341,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_6.pkl,4,0.4347
+342,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_2.pkl,4,0.4353
+343,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_9.pkl,4,0.4354
+344,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_7.pkl,4,0.4354
+345,RESULTADOS-1,22,[1],4,1,modelo_rmse_1.pkl,4,0.436
+346,RESULTADOS-1,22,[1],4,1,modelo_rmse_6.pkl,4,0.436
+347,RESULTADOS-1,22,[1],4,1,modelo_rmse_7.pkl,4,0.436
+348,RESULTADOS-1,22,[1],4,1,modelo_rmse_9.pkl,4,0.436
+349,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_10.pkl,4,0.4362
+350,RESULTADOS-1,22,[1],4,1,modelo_rmse_3.pkl,4,0.4365
+351,RESULTADOS-1,28,[1],4,7,modelo_rmse_4.pkl,4,0.4368
+352,RESULTADOS-1,28,[1],4,7,modelo_rmse_7.pkl,4,0.4369
+353,RESULTADOS-3,46,"[1, 2, 5, 10]",7,4,modelo_rmse_4.pkl,2,0.4372
+354,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_3.pkl,4,0.4375
+355,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_6.pkl,4,0.4375
+356,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_6.pkl,4,0.4379
+357,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_4.pkl,4,0.4383
+358,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_5.pkl,4,0.4387
+359,RESULTADOS-1,27,[1],4,6,modelo_rmse_4.pkl,4,0.4389
+360,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_9.pkl,4,0.4392
+361,RESULTADOS-1,21,[1],3,7,modelo_rmse_5.pkl,4,0.4398
+362,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_2.pkl,4,0.4403
+363,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_1.pkl,4,0.4404
+364,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_5.pkl,4,0.4412
+365,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_2.pkl,4,0.4413
+366,RESULTADOS-1,27,[1],4,6,modelo_rmse_1.pkl,4,0.4416
+367,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_5.pkl,4,0.4421
+368,RESULTADOS-1,26,[1],4,5,modelo_rmse_3.pkl,4,0.4422
+369,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_2.pkl,4,0.4423
+370,RESULTADOS-1,32,[1],5,4,modelo_rmse_6.pkl,4,0.4424
+371,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_4.pkl,4,0.4426
+372,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_5.pkl,4,0.4429
+373,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_4.pkl,4,0.4429
+374,RESULTADOS-1,28,[1],4,7,modelo_rmse_9.pkl,4,0.4431
+375,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_1.pkl,4,0.4431
+376,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_10.pkl,4,0.4433
+377,RESULTADOS-1,26,[1],4,5,modelo_rmse_8.pkl,4,0.4444
+378,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_10.pkl,4,0.4451
+379,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_9.pkl,4,0.4451
+380,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_9.pkl,4,0.4475
+381,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_9.pkl,4,0.4487
+382,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_8.pkl,4,0.4497
+383,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_1.pkl,4,0.4498
+384,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_2.pkl,4,0.4501
+385,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_8.pkl,4,0.4504
+386,RESULTADOS-1,20,[1],3,6,modelo_rmse_8.pkl,4,0.451
+387,RESULTADOS-1,33,[1],5,5,modelo_rmse_2.pkl,4,0.4512
+388,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_5.pkl,4,0.4516
+389,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_8.pkl,4,0.4522
+390,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_9.pkl,4,0.4526
+391,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_2.pkl,4,0.4526
+392,RESULTADOS-3,32,"[1, 2, 5, 10]",5,4,modelo_rmse_4.pkl,4,0.453
+393,RESULTADOS-1,33,[1],5,5,modelo_rmse_7.pkl,4,0.4538
+394,RESULTADOS-1,26,[1],4,5,modelo_rmse_7.pkl,4,0.4553
+395,RESULTADOS-1,34,[1],5,6,modelo_rmse_4.pkl,4,0.4556
+396,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_6.pkl,4,0.4562
+397,RESULTADOS-3,38,"[1, 2, 5, 10]",6,3,modelo_rmse_10.pkl,4,0.4566
+398,RESULTADOS-3,43,"[1, 2, 5, 10]",7,1,modelo_rmse_8.pkl,4,0.4566
+399,RESULTADOS-1,26,[1],4,5,modelo_rmse_5.pkl,4,0.4578
+400,RESULTADOS-3,34,"[1, 2, 5, 10]",5,6,modelo_rmse_6.pkl,4,0.4592
+401,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_10.pkl,4,0.4593
+402,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_8.pkl,4,0.4594
+403,RESULTADOS-3,45,"[1, 2, 5, 10]",7,3,modelo_rmse_9.pkl,4,0.4598
+404,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_6.pkl,4,0.4602
+405,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_3.pkl,4,0.4611
+406,RESULTADOS-1,20,[1],3,6,modelo_rmse_4.pkl,4,0.4612
+407,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_7.pkl,4,0.4615
+408,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_3.pkl,4,0.4631
+409,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_8.pkl,4,0.4652
+410,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_5.pkl,4,0.4655
+411,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_8.pkl,4,0.4655
+412,RESULTADOS-1,21,[1],3,7,modelo_rmse_8.pkl,4,0.466
+413,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_6.pkl,4,0.4672
+414,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_7.pkl,4,0.4688
+415,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_6.pkl,4,0.4691
+416,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_7.pkl,4,0.47
+417,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_10.pkl,4,0.47
+418,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_10.pkl,4,0.4702
+419,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_4.pkl,4,0.4702
+420,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_6.pkl,4,0.4702
+421,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_7.pkl,4,0.4702
+422,RESULTADOS-1,7,[1],1,7,modelo_rmse_2.pkl,4,0.4703
+423,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_7.pkl,4,0.4707
+424,RESULTADOS-1,5,[1],1,5,modelo_rmse_4.pkl,4,0.4712
+425,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_3.pkl,4,0.4716
+426,RESULTADOS-1,5,[1],1,5,modelo_rmse_5.pkl,4,0.4723
+427,RESULTADOS-1,7,[1],1,7,modelo_rmse_3.pkl,4,0.4723
+428,RESULTADOS-1,6,[1],1,6,modelo_rmse_1.pkl,4,0.4728
+429,RESULTADOS-1,7,[1],1,7,modelo_rmse_9.pkl,4,0.473
+430,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_1.pkl,4,0.4731
+431,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_4.pkl,4,0.4732
+432,RESULTADOS-3,37,"[1, 2, 5, 10]",6,2,modelo_rmse_4.pkl,4,0.4734
+433,RESULTADOS-1,5,[1],1,5,modelo_rmse_3.pkl,4,0.4735
+434,RESULTADOS-1,6,[1],1,6,modelo_rmse_5.pkl,4,0.4737
+435,RESULTADOS-1,7,[1],1,7,modelo_rmse_4.pkl,4,0.4737
+436,RESULTADOS-1,5,[1],1,5,modelo_rmse_7.pkl,4,0.4743
+437,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_8.pkl,4,0.4743
+438,RESULTADOS-1,6,[1],1,6,modelo_rmse_7.pkl,4,0.4746
+439,RESULTADOS-1,5,[1],1,5,modelo_rmse_2.pkl,4,0.4751
+440,RESULTADOS-1,6,[1],1,6,modelo_rmse_2.pkl,4,0.4752
+441,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_10.pkl,4,0.4755
+442,RESULTADOS-1,4,[1],1,4,modelo_rmse_4.pkl,4,0.4756
+443,RESULTADOS-1,6,[1],1,6,modelo_rmse_8.pkl,4,0.476
+444,RESULTADOS-1,6,[1],1,6,modelo_rmse_4.pkl,4,0.4761
+445,RESULTADOS-1,7,[1],1,7,modelo_rmse_5.pkl,4,0.4761
+446,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_5.pkl,4,0.4762
+447,RESULTADOS-1,6,[1],1,6,modelo_rmse_10.pkl,4,0.4767
+448,RESULTADOS-1,5,[1],1,5,modelo_rmse_8.pkl,4,0.4768
+449,RESULTADOS-1,6,[1],1,6,modelo_rmse_6.pkl,4,0.4776
+450,RESULTADOS-1,4,[1],1,4,modelo_rmse_8.pkl,4,0.4786
+451,RESULTADOS-1,5,[1],1,5,modelo_rmse_6.pkl,4,0.4788
+452,RESULTADOS-1,7,[1],1,7,modelo_rmse_1.pkl,4,0.4788
+453,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_3.pkl,4,0.4788
+454,RESULTADOS-1,4,[1],1,4,modelo_rmse_6.pkl,4,0.479
+455,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_4.pkl,4,0.4793
+456,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_3.pkl,4,0.4795
+457,RESULTADOS-1,26,[1],4,5,modelo_rmse_9.pkl,4,0.4797
+458,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_1.pkl,4,0.4797
+459,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_7.pkl,4,0.4804
+460,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_10.pkl,4,0.4815
+461,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_4.pkl,4,0.4819
+462,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_9.pkl,4,0.482
+463,RESULTADOS-1,7,[1],1,7,modelo_rmse_6.pkl,4,0.4821
+464,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_5.pkl,4,0.4821
+465,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_2.pkl,4,0.4821
+466,RESULTADOS-1,3,[1],1,3,modelo_rmse_2.pkl,4,0.4829
+467,RESULTADOS-1,5,[1],1,5,modelo_rmse_9.pkl,4,0.4832
+468,RESULTADOS-1,3,[1],1,3,modelo_rmse_1.pkl,4,0.4833
+469,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_5.pkl,4,0.4834
+470,RESULTADOS-1,4,[1],1,4,modelo_rmse_5.pkl,4,0.4836
+471,RESULTADOS-1,7,[1],1,7,modelo_rmse_8.pkl,4,0.4836
+472,RESULTADOS-1,3,[1],1,3,modelo_rmse_6.pkl,4,0.4844
+473,RESULTADOS-1,4,[1],1,4,modelo_rmse_2.pkl,4,0.4847
+474,RESULTADOS-1,7,[1],1,7,modelo_rmse_7.pkl,4,0.4847
+475,RESULTADOS-1,6,[1],1,6,modelo_rmse_3.pkl,4,0.4851
+476,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_3.pkl,4,0.4851
+477,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_9.pkl,4,0.4859
+478,RESULTADOS-1,4,[1],1,4,modelo_rmse_1.pkl,4,0.4862
+479,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_1.pkl,4,0.4864
+480,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_9.pkl,4,0.4869
+481,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_5.pkl,4,0.4899
+482,RESULTADOS-1,26,[1],4,5,modelo_rmse_4.pkl,4,0.4902
+483,RESULTADOS-1,3,[1],1,3,modelo_rmse_5.pkl,4,0.4904
+484,RESULTADOS-1,4,[1],1,4,modelo_rmse_3.pkl,4,0.4904
+485,RESULTADOS-1,3,[1],1,3,modelo_rmse_9.pkl,4,0.4908
+486,RESULTADOS-1,38,[1],6,3,modelo_rmse_6.pkl,4,0.4909
+487,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_1.pkl,4,0.4911
+488,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_2.pkl,4,0.4914
+489,RESULTADOS-1,31,[1],5,3,modelo_rmse_9.pkl,4,0.4922
+490,RESULTADOS-1,32,[1],5,4,modelo_rmse_8.pkl,4,0.4922
+491,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_3.pkl,4,0.4927
+492,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_8.pkl,4,0.493
+493,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_5.pkl,4,0.4939
+494,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_7.pkl,4,0.4939
+495,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_3.pkl,4,0.4942
+496,RESULTADOS-1,20,[1],3,6,modelo_rmse_6.pkl,4,0.4952
+497,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_10.pkl,4,0.4952
+498,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_1.pkl,4,0.4952
+499,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_10.pkl,4,0.4957
+500,RESULTADOS-1,27,[1],4,6,modelo_rmse_3.pkl,4,0.4965
+501,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_7.pkl,4,0.4969
+502,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_10.pkl,4,0.4981
+503,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_7.pkl,4,0.4991
+504,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_4.pkl,4,0.4991
+505,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_8.pkl,4,0.4994
+506,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_10.pkl,4,0.4995
+507,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_5.pkl,4,0.4995
+508,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_9.pkl,4,0.4995
+509,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_9.pkl,4,0.4995
+510,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_9.pkl,4,0.4997
+511,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_5.pkl,4,0.5002
+512,RESULTADOS-3,35,"[1, 2, 5, 10]",5,7,modelo_rmse_1.pkl,4,0.501
+513,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_1.pkl,4,0.5011
+514,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_2.pkl,4,0.5011
+515,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_3.pkl,4,0.5011
+516,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_4.pkl,4,0.5011
+517,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_6.pkl,4,0.5011
+518,RESULTADOS-3,2,"[1, 2, 5, 10]",1,2,modelo_rmse_7.pkl,4,0.5011
+519,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_5.pkl,4,0.5033
+520,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_5.pkl,4,0.5035
+521,RESULTADOS-1,25,[1],4,4,modelo_rmse_3.pkl,4,0.5038
+522,RESULTADOS-1,34,[1],5,6,modelo_rmse_3.pkl,4,0.5071
+523,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_8.pkl,4,0.5084
+524,RESULTADOS-1,20,[1],3,6,modelo_rmse_10.pkl,4,0.51
+525,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_9.pkl,4,0.5115
+526,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_9.pkl,4,0.5137
+527,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_2.pkl,4,0.515
+528,RESULTADOS-1,31,[1],5,3,modelo_rmse_1.pkl,4,0.5155
+529,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_10.pkl,4,0.5161
+530,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_1.pkl,4,0.5164
+531,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_2.pkl,4,0.5164
+532,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_7.pkl,4,0.5164
+533,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_8.pkl,4,0.5164
+534,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_7.pkl,4,0.5168
+535,RESULTADOS-1,38,[1],6,3,modelo_rmse_9.pkl,4,0.5169
+536,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_2.pkl,4,0.5188
+537,RESULTADOS-1,25,[1],4,4,modelo_rmse_1.pkl,4,0.5194
+538,RESULTADOS-1,38,[1],6,3,modelo_rmse_7.pkl,4,0.5197
+539,RESULTADOS-1,32,[1],5,4,modelo_rmse_4.pkl,4,0.5216
+540,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_1.pkl,4,0.5228
+541,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_3.pkl,4,0.5228
+542,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_2.pkl,4,0.5232
+543,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_6.pkl,4,0.5233
+544,RESULTADOS-1,32,[1],5,4,modelo_rmse_2.pkl,4,0.5237
+545,RESULTADOS-1,20,[1],3,6,modelo_rmse_1.pkl,4,0.5262
+546,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_4.pkl,4,0.5272
+547,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_6.pkl,4,0.5333
+548,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_5.pkl,4,0.5335
+549,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_4.pkl,4,0.5341
+550,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_4.pkl,4,0.5345
+551,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_10.pkl,4,0.535
+552,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_6.pkl,4,0.5356
+553,RESULTADOS-1,31,[1],5,3,modelo_rmse_5.pkl,4,0.5359
+554,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_6.pkl,4,0.5382
+555,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_3.pkl,4,0.5396
+556,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_9.pkl,4,0.5401
+557,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_5.pkl,4,0.5404
+558,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_2.pkl,4,0.5418
+559,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_2.pkl,4,0.543
+560,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_10.pkl,4,0.544
+561,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_7.pkl,4,0.5451
+562,RESULTADOS-1,31,[1],5,3,modelo_rmse_3.pkl,4,0.5459
+563,RESULTADOS-3,31,"[1, 2, 5, 10]",5,3,modelo_rmse_4.pkl,4,0.548
+564,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_4.pkl,4,0.5496
+565,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_5.pkl,4,0.5496
+566,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_10.pkl,4,0.55
+567,RESULTADOS-1,33,[1],5,5,modelo_rmse_10.pkl,4,0.5511
+568,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_3.pkl,4,0.5513
+569,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_7.pkl,4,0.5519
+570,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_6.pkl,4,0.5548
+571,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_1.pkl,4,0.5558
+572,RESULTADOS-3,24,"[1, 2, 5, 10]",4,3,modelo_rmse_10.pkl,4,0.558
+573,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_7.pkl,4,0.5595
+574,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_8.pkl,4,0.5611
+575,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_1.pkl,4,0.5625
+576,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_10.pkl,4,0.5625
+577,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_2.pkl,4,0.5625
+578,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_3.pkl,4,0.5625
+579,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_4.pkl,4,0.5625
+580,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_5.pkl,4,0.5625
+581,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_6.pkl,4,0.5625
+582,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_7.pkl,4,0.5625
+583,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_8.pkl,4,0.5625
+584,RESULTADOS-2,1,"[1, 2, 5, 10, 25, 50]",1,1,modelo_rmse_9.pkl,4,0.5625
+585,RESULTADOS-1,31,[1],5,3,modelo_rmse_8.pkl,4,0.5655
+586,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_1.pkl,4,0.5665
+587,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_10.pkl,4,0.5665
+588,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_2.pkl,4,0.5665
+589,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_3.pkl,4,0.5665
+590,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_4.pkl,4,0.5665
+591,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_5.pkl,4,0.5665
+592,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_6.pkl,4,0.5665
+593,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_7.pkl,4,0.5665
+594,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_8.pkl,4,0.5665
+595,RESULTADOS-3,1,"[1, 2, 5, 10]",1,1,modelo_rmse_9.pkl,4,0.5665
+596,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_10.pkl,4,0.5667
+597,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_3.pkl,4,0.567
+598,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_8.pkl,4,0.569
+599,RESULTADOS-1,3,[1],1,3,modelo_rmse_4.pkl,4,0.5697
+600,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_2.pkl,4,0.5706
+601,RESULTADOS-1,3,[1],1,3,modelo_rmse_7.pkl,4,0.5708
+602,RESULTADOS-1,3,[1],1,3,modelo_rmse_3.pkl,4,0.5712
+603,RESULTADOS-1,3,[1],1,3,modelo_rmse_8.pkl,4,0.5712
+604,RESULTADOS-1,25,[1],4,4,modelo_rmse_2.pkl,4,0.5716
+605,RESULTADOS-1,3,[1],1,3,modelo_rmse_10.pkl,4,0.5718
+606,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_1.pkl,4,0.5718
+607,RESULTADOS-1,2,[1],1,2,modelo_rmse_1.pkl,4,0.5725
+608,RESULTADOS-1,2,[1],1,2,modelo_rmse_5.pkl,4,0.5725
+609,RESULTADOS-1,2,[1],1,2,modelo_rmse_6.pkl,4,0.5725
+610,RESULTADOS-1,25,[1],4,4,modelo_rmse_8.pkl,4,0.573
+611,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_1.pkl,4,0.5747
+612,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_3.pkl,4,0.5747
+613,RESULTADOS-2,2,"[1, 2, 5, 10, 25, 50]",1,2,modelo_rmse_9.pkl,4,0.5747
+614,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_4.pkl,4,0.5758
+615,RESULTADOS-3,3,"[1, 2, 5, 10]",1,3,modelo_rmse_2.pkl,4,0.5764
+616,RESULTADOS-1,2,[1],1,2,modelo_rmse_2.pkl,4,0.577
+617,RESULTADOS-1,2,[1],1,2,modelo_rmse_4.pkl,4,0.577
+618,RESULTADOS-1,2,[1],1,2,modelo_rmse_7.pkl,4,0.577
+619,RESULTADOS-1,2,[1],1,2,modelo_rmse_8.pkl,4,0.577
+620,RESULTADOS-1,2,[1],1,2,modelo_rmse_9.pkl,4,0.577
+621,RESULTADOS-1,2,[1],1,2,modelo_rmse_10.pkl,4,0.577
+622,RESULTADOS-1,2,[1],1,2,modelo_rmse_3.pkl,4,0.5774
+623,RESULTADOS-3,36,"[1, 2, 5, 10]",6,1,modelo_rmse_8.pkl,4,0.5804
+624,RESULTADOS-1,28,[1],4,7,modelo_rmse_6.pkl,4,0.5805
+625,RESULTADOS-1,25,[1],4,4,modelo_rmse_7.pkl,4,0.5817
+626,RESULTADOS-1,23,[1],4,2,modelo_rmse_6.pkl,4,0.5948
+627,RESULTADOS-1,38,[1],6,3,modelo_rmse_5.pkl,4,0.5948
+628,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_10.pkl,4,0.5984
+629,RESULTADOS-1,20,[1],3,6,modelo_rmse_7.pkl,4,0.5986
+630,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_4.pkl,4,0.5994
+631,RESULTADOS-1,23,[1],4,2,modelo_rmse_8.pkl,4,0.6
+632,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_2.pkl,4,0.6
+633,RESULTADOS-1,20,[1],3,6,modelo_rmse_5.pkl,4,0.6051
+634,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_9.pkl,4,0.6051
+635,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_6.pkl,4,0.6081
+636,RESULTADOS-1,25,[1],4,4,modelo_rmse_10.pkl,4,0.6101
+637,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_9.pkl,4,0.6112
+638,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_9.pkl,4,0.6146
+639,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_8.pkl,4,0.6171
+640,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_1.pkl,4,0.6183
+641,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_3.pkl,4,0.6183
+642,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_6.pkl,4,0.6183
+643,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_7.pkl,4,0.6183
+644,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_8.pkl,4,0.6183
+645,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_9.pkl,4,0.6183
+646,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_10.pkl,4,0.6183
+647,RESULTADOS-2,8,"[1, 2, 5, 10, 25, 50]",2,1,modelo_mape_2.pkl,4,0.6205
+648,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_2.pkl,4,0.6221
+649,RESULTADOS-1,27,[1],4,6,modelo_rmse_10.pkl,4,0.6233
+650,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_10.pkl,4,0.6243
+651,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_6.pkl,4,0.6248
+652,RESULTADOS-3,5,"[1, 2, 5, 10]",1,5,modelo_rmse_4.pkl,4,0.6253
+653,RESULTADOS-3,26,"[1, 2, 5, 10]",4,5,modelo_rmse_4.pkl,4,0.6312
+654,RESULTADOS-1,27,[1],4,6,modelo_rmse_6.pkl,4,0.6313
+655,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_4.pkl,4,0.6331
+656,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_6.pkl,4,0.637
+657,RESULTADOS-3,21,"[1, 2, 5, 10]",3,7,modelo_rmse_9.pkl,4,0.6371
+658,RESULTADOS-1,24,[1],4,3,modelo_rmse_7.pkl,4,0.6386
+659,RESULTADOS-1,23,[1],4,2,modelo_rmse_3.pkl,4,0.6392
+660,RESULTADOS-1,31,[1],5,3,modelo_rmse_7.pkl,4,0.6401
+661,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_7.pkl,4,0.6407
+662,RESULTADOS-3,4,"[1, 2, 5, 10]",1,4,modelo_rmse_1.pkl,4,0.6408
+663,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_7.pkl,4,0.6426
+664,RESULTADOS-1,21,[1],3,7,modelo_rmse_1.pkl,4,0.643
+665,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_8.pkl,4,0.643
+666,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_8.pkl,4,0.6447
+667,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_8.pkl,4,0.6477
+668,RESULTADOS-1,21,[1],3,7,modelo_rmse_2.pkl,4,0.6492
+669,RESULTADOS-1,28,[1],4,7,modelo_rmse_3.pkl,4,0.6499
+670,RESULTADOS-1,24,[1],4,3,modelo_rmse_5.pkl,4,0.651
+671,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_9.pkl,4,0.6517
+672,RESULTADOS-1,24,[1],4,3,modelo_rmse_10.pkl,4,0.6521
+673,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_5.pkl,4,0.654
+674,RESULTADOS-1,28,[1],4,7,modelo_rmse_10.pkl,4,0.6556
+675,RESULTADOS-1,20,[1],3,6,modelo_rmse_2.pkl,4,0.6563
+676,RESULTADOS-1,23,[1],4,2,modelo_rmse_5.pkl,4,0.6566
+677,RESULTADOS-1,23,[1],4,2,modelo_rmse_2.pkl,4,0.6574
+678,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_3.pkl,4,0.6581
+679,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_8.pkl,4,0.6608
+680,RESULTADOS-1,23,[1],4,2,modelo_rmse_9.pkl,4,0.6615
+681,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_3.pkl,4,0.6629
+682,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_7.pkl,4,0.6632
+683,RESULTADOS-1,24,[1],4,3,modelo_rmse_4.pkl,4,0.6655
+684,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_4.pkl,4,0.6656
+685,RESULTADOS-1,23,[1],4,2,modelo_rmse_1.pkl,4,0.6671
+686,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_5.pkl,4,0.669
+687,RESULTADOS-1,24,[1],4,3,modelo_rmse_3.pkl,4,0.6701
+688,RESULTADOS-1,20,[1],3,6,modelo_rmse_3.pkl,4,0.6715
+689,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_6.pkl,4,0.6716
+690,RESULTADOS-3,27,"[1, 2, 5, 10]",4,6,modelo_rmse_8.pkl,4,0.6716
+691,RESULTADOS-1,43,[1],7,1,modelo_rmse_3.pkl,4,0.6758
+692,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_6.pkl,4,0.6779
+693,RESULTADOS-3,7,"[1, 2, 5, 10]",1,7,modelo_rmse_4.pkl,4,0.6784
+694,RESULTADOS-3,30,"[1, 2, 5, 10]",5,2,modelo_rmse_3.pkl,4,0.6788
+695,RESULTADOS-1,20,[1],3,6,modelo_rmse_9.pkl,4,0.6799
+696,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_9.pkl,4,0.6819
+697,RESULTADOS-1,21,[1],3,7,modelo_rmse_7.pkl,4,0.6821
+698,RESULTADOS-1,25,[1],4,4,modelo_rmse_9.pkl,4,0.6824
+699,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_7.pkl,4,0.6825
+700,RESULTADOS-1,13,[1],2,6,modelo_rmse_9.pkl,4,0.6868
+701,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_6.pkl,4,0.687
+702,RESULTADOS-1,23,[1],4,2,modelo_rmse_4.pkl,4,0.6875
+703,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_10.pkl,4,0.6887
+704,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_3.pkl,4,0.6894
+705,RESULTADOS-2,9,"[1, 2, 5, 10, 25, 50]",2,2,modelo_mape_5.pkl,4,0.6949
+706,RESULTADOS-1,21,[1],3,7,modelo_rmse_10.pkl,4,0.6968
+707,RESULTADOS-1,9,[1],2,2,modelo_rmse_1.pkl,4,0.6972
+708,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_6.pkl,4,0.6975
+709,RESULTADOS-1,23,[1],4,2,modelo_rmse_7.pkl,4,0.6996
+710,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_1.pkl,4,0.7015
+711,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_8.pkl,4,0.7015
+712,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_3.pkl,4,0.7036
+713,RESULTADOS-1,24,[1],4,3,modelo_rmse_2.pkl,4,0.7042
+714,RESULTADOS-3,19,"[1, 2, 5, 10]",3,5,modelo_rmse_8.pkl,4,0.7099
+715,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_1.pkl,4,0.7103
+716,RESULTADOS-3,29,"[1, 2, 5, 10]",5,1,modelo_rmse_9.pkl,4,0.7136
+717,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_5.pkl,4,0.7151
+718,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_1.pkl,4,0.7155
+719,RESULTADOS-1,23,[1],4,2,modelo_rmse_10.pkl,4,0.7166
+720,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_2.pkl,4,0.7173
+721,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_5.pkl,4,0.7173
+722,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_10.pkl,4,0.7173
+723,RESULTADOS-3,23,"[1, 2, 5, 10]",4,2,modelo_rmse_7.pkl,4,0.7176
+724,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_9.pkl,4,0.7188
+725,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_6.pkl,4,0.7205
+726,RESULTADOS-1,21,[1],3,7,modelo_rmse_4.pkl,4,0.7218
+727,RESULTADOS-3,25,"[1, 2, 5, 10]",4,4,modelo_rmse_1.pkl,4,0.7232
+728,RESULTADOS-3,18,"[1, 2, 5, 10]",3,4,modelo_rmse_10.pkl,4,0.7275
+729,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_10.pkl,4,0.7278
+730,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_5.pkl,4,0.7278
+731,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_8.pkl,4,0.7278
+732,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_8.pkl,4,0.7281
+733,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_10.pkl,4,0.7288
+734,RESULTADOS-1,21,[1],3,7,modelo_rmse_9.pkl,4,0.73
+735,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_7.pkl,4,0.7329
+736,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_9.pkl,4,0.7394
+737,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_1.pkl,3,0.7396
+738,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_7.pkl,4,0.7438
+739,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_3.pkl,4,0.7458
+740,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_4.pkl,4,0.7483
+741,RESULTADOS-3,22,"[1, 2, 5, 10]",4,1,modelo_rmse_9.pkl,4,0.7483
+742,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_10.pkl,4,0.7496
+743,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_2.pkl,4,0.7545
+744,RESULTADOS-3,17,"[1, 2, 5, 10]",3,3,modelo_rmse_5.pkl,4,0.7555
+745,RESULTADOS-1,15,[1],3,1,modelo_rmse_6.pkl,4,0.7571
+746,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_8.pkl,4,0.7614
+747,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_2.pkl,4,0.7616
+748,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_3.pkl,4,0.7616
+749,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_6.pkl,4,0.7616
+750,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_1.pkl,4,0.762
+751,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_7.pkl,4,0.7673
+752,RESULTADOS-1,28,[1],4,7,modelo_rmse_1.pkl,4,0.7739
+753,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_5.pkl,4,0.7741
+754,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_3.pkl,4,0.7756
+755,RESULTADOS-3,15,"[1, 2, 5, 10]",3,1,modelo_rmse_4.pkl,4,0.7761
+756,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_1.pkl,4,0.7792
+757,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_1.pkl,4,0.7822
+758,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_1.pkl,4,0.7864
+759,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_2.pkl,4,0.7864
+760,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_4.pkl,4,0.7927
+761,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_1.pkl,4,0.7941
+762,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_2.pkl,4,0.7982
+763,RESULTADOS-1,12,[1],2,5,modelo_rmse_5.pkl,4,0.802
+764,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_5.pkl,4,0.803
+765,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_3.pkl,4,0.8034
+766,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_6.pkl,4,0.8034
+767,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_8.pkl,4,0.8034
+768,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_7.pkl,4,0.8062
+769,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_7.pkl,4,0.8094
+770,RESULTADOS-1,43,[1],7,1,modelo_rmse_9.pkl,4,0.8102
+771,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_4.pkl,4,0.8125
+772,RESULTADOS-1,43,[1],7,1,modelo_rmse_5.pkl,4,0.8213
+773,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_7.pkl,4,0.8261
+774,RESULTADOS-1,43,[1],7,1,modelo_rmse_10.pkl,4,0.8328
+775,RESULTADOS-1,1,[1],1,1,modelo_rmse_1.pkl,4,0.8346
+776,RESULTADOS-1,1,[1],1,1,modelo_rmse_10.pkl,4,0.8346
+777,RESULTADOS-1,1,[1],1,1,modelo_rmse_2.pkl,4,0.8346
+778,RESULTADOS-1,1,[1],1,1,modelo_rmse_3.pkl,4,0.8346
+779,RESULTADOS-1,1,[1],1,1,modelo_rmse_4.pkl,4,0.8346
+780,RESULTADOS-1,1,[1],1,1,modelo_rmse_5.pkl,4,0.8346
+781,RESULTADOS-1,1,[1],1,1,modelo_rmse_6.pkl,4,0.8346
+782,RESULTADOS-1,1,[1],1,1,modelo_rmse_7.pkl,4,0.8346
+783,RESULTADOS-1,1,[1],1,1,modelo_rmse_8.pkl,4,0.8346
+784,RESULTADOS-1,1,[1],1,1,modelo_rmse_9.pkl,4,0.8346
+785,RESULTADOS-1,43,[1],7,1,modelo_rmse_6.pkl,4,0.8385
+786,RESULTADOS-1,43,[1],7,1,modelo_rmse_8.pkl,4,0.8418
+787,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_5.pkl,2,0.8422
+788,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_2.pkl,4,0.8458
+789,RESULTADOS-3,16,"[1, 2, 5, 10]",3,2,modelo_rmse_8.pkl,4,0.8478
+790,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_5.pkl,4,0.8575
+791,RESULTADOS-1,43,[1],7,1,modelo_rmse_7.pkl,4,0.8736
+792,RESULTADOS-1,43,[1],7,1,modelo_rmse_4.pkl,4,0.8761
+793,RESULTADOS-1,15,[1],3,1,modelo_rmse_1.pkl,4,0.8791
+794,RESULTADOS-1,15,[1],3,1,modelo_rmse_3.pkl,4,0.8791
+795,RESULTADOS-1,15,[1],3,1,modelo_rmse_4.pkl,4,0.8791
+796,RESULTADOS-1,15,[1],3,1,modelo_rmse_9.pkl,4,0.8791
+797,RESULTADOS-1,31,[1],5,3,modelo_rmse_6.pkl,4,0.8892
+798,RESULTADOS-3,10,"[1, 2, 5, 10]",2,3,modelo_rmse_9.pkl,4,0.91
+799,RESULTADOS-1,43,[1],7,1,modelo_rmse_2.pkl,4,0.9165
+800,RESULTADOS-3,40,"[1, 2, 5, 10]",6,5,modelo_rmse_2.pkl,2,0.918
+801,RESULTADOS-1,43,[1],7,1,modelo_rmse_1.pkl,4,0.9182
+802,RESULTADOS-3,11,"[1, 2, 5, 10]",2,4,modelo_rmse_4.pkl,4,0.9189
+803,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_4.pkl,4,0.9465
+804,RESULTADOS-3,20,"[1, 2, 5, 10]",3,6,modelo_rmse_1.pkl,4,0.9705
+805,RESULTADOS-1,44,[1],7,2,modelo_rmse_10.pkl,4,0.9831
+806,RESULTADOS-1,44,[1],7,2,modelo_rmse_6.pkl,4,0.9863
+807,RESULTADOS-1,44,[1],7,2,modelo_rmse_9.pkl,4,0.9948
+808,RESULTADOS-1,44,[1],7,2,modelo_rmse_7.pkl,4,0.9985
+809,RESULTADOS-1,44,[1],7,2,modelo_rmse_1.pkl,4,1.0052
+810,RESULTADOS-3,12,"[1, 2, 5, 10]",2,5,modelo_rmse_1.pkl,4,1.0184
+811,RESULTADOS-1,44,[1],7,2,modelo_rmse_5.pkl,4,1.0238
+812,RESULTADOS-1,44,[1],7,2,modelo_rmse_2.pkl,4,1.0388
+813,RESULTADOS-1,44,[1],7,2,modelo_rmse_4.pkl,4,1.0473
+814,RESULTADOS-1,44,[1],7,2,modelo_rmse_3.pkl,4,1.0571
+815,RESULTADOS-1,44,[1],7,2,modelo_rmse_8.pkl,4,1.0628
+816,RESULTADOS-1,45,[1],7,3,modelo_rmse_6.pkl,4,1.0893
+817,RESULTADOS-1,22,[1],4,1,modelo_rmse_8.pkl,4,1.1181
+818,RESULTADOS-1,45,[1],7,3,modelo_rmse_10.pkl,4,1.1623
+819,RESULTADOS-1,46,[1],7,4,modelo_rmse_2.pkl,4,1.1702
+820,RESULTADOS-1,45,[1],7,3,modelo_rmse_8.pkl,4,1.1712
+821,RESULTADOS-1,45,[1],7,3,modelo_rmse_4.pkl,4,1.1897
+822,RESULTADOS-1,45,[1],7,3,modelo_rmse_2.pkl,4,1.2012
+823,RESULTADOS-1,45,[1],7,3,modelo_rmse_5.pkl,4,1.2179
+824,RESULTADOS-1,45,[1],7,3,modelo_rmse_1.pkl,4,1.3621
+825,RESULTADOS-1,45,[1],7,3,modelo_rmse_9.pkl,4,1.3636
+826,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_6.pkl,4,1.3957
+827,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_3.pkl,4,1.3999
+828,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_9.pkl,4,1.4147
+829,RESULTADOS-3,9,"[1, 2, 5, 10]",2,2,modelo_rmse_9.pkl,4,1.4247
+830,RESULTADOS-2,3,"[1, 2, 5, 10, 25, 50]",1,3,modelo_rmse_1.pkl,4,1.4917
+831,RESULTADOS-1,46,[1],7,4,modelo_rmse_1.pkl,4,1.5019
+832,RESULTADOS-1,46,[1],7,4,modelo_rmse_3.pkl,4,1.5113
+833,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_1.pkl,4,1.5232
+834,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_10.pkl,4,1.5232
+835,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_2.pkl,4,1.5232
+836,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_4.pkl,4,1.5232
+837,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_5.pkl,4,1.5232
+838,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_7.pkl,4,1.5232
+839,RESULTADOS-3,8,"[1, 2, 5, 10]",2,1,modelo_rmse_8.pkl,4,1.5232
+840,RESULTADOS-1,46,[1],7,4,modelo_rmse_6.pkl,4,1.5365
+841,RESULTADOS-1,42,[1],6,7,modelo_rmse_6.pkl,4,1.6347
+842,RESULTADOS-3,42,"[1, 2, 5, 10]",6,7,modelo_rmse_4.pkl,3,1.7162
+843,RESULTADOS-1,18,[1],3,4,modelo_rmse_10.pkl,4,1.7411
+844,RESULTADOS-1,46,[1],7,4,modelo_rmse_5.pkl,4,2.0643
+845,RESULTADOS-3,14,"[1, 2, 5, 10]",2,7,modelo_rmse_10.pkl,4,2.0857
+846,RESULTADOS-1,46,[1],7,4,modelo_rmse_10.pkl,4,2.1208
+847,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_3.pkl,4,2.1303
+848,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_10.pkl,4,2.1303
+849,RESULTADOS-1,46,[1],7,4,modelo_rmse_4.pkl,4,2.2126
+850,RESULTADOS-1,46,[1],7,4,modelo_rmse_8.pkl,4,2.6016
+851,RESULTADOS-1,46,[1],7,4,modelo_rmse_9.pkl,4,2.6097
+852,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_9.pkl,4,2.7271
+853,RESULTADOS-1,7,[1],1,7,modelo_rmse_10.pkl,4,2.8436
+854,RESULTADOS-1,6,[1],1,6,modelo_rmse_9.pkl,4,2.8561
+855,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_2.pkl,4,2.858
+856,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_7.pkl,4,3.0311
+857,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_10.pkl,4,3.0545
+858,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_7.pkl,4,3.0992
+859,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_8.pkl,4,3.1257
+860,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_8.pkl,4,3.1612
+861,RESULTADOS-1,19,[1],3,5,modelo_rmse_9.pkl,3,3.2256
+862,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_2.pkl,4,3.277
+863,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_3.pkl,4,3.2896
+864,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_5.pkl,4,3.2925
+865,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_7.pkl,4,3.3251
+866,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_5.pkl,4,3.4497
+867,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_6.pkl,4,3.4705
+868,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_3.pkl,4,3.5401
+869,RESULTADOS-1,14,[1],2,7,modelo_rmse_7.pkl,3,3.5558
+870,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_4.pkl,4,3.5588
+871,RESULTADOS-2,10,"[1, 2, 5, 10, 25, 50]",2,3,modelo_mape_1.pkl,4,3.5593
+872,RESULTADOS-1,11,[1],2,4,modelo_rmse_2.pkl,3,3.5817
+873,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_6.pkl,4,3.6005
+874,RESULTADOS-1,4,[1],1,4,modelo_rmse_9.pkl,4,3.6262
+875,RESULTADOS-1,10,[1],2,3,modelo_rmse_3.pkl,4,3.6388
+876,RESULTADOS-1,10,[1],2,3,modelo_rmse_10.pkl,4,3.6403
+877,RESULTADOS-1,11,[1],2,4,modelo_rmse_9.pkl,4,3.6403
+878,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_4.pkl,4,3.6977
+879,RESULTADOS-1,10,[1],2,3,modelo_rmse_9.pkl,4,3.7073
+880,RESULTADOS-1,16,[1],3,2,modelo_rmse_8.pkl,4,3.7098
+881,RESULTADOS-1,42,[1],6,7,modelo_rmse_9.pkl,4,3.7223
+882,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_4.pkl,4,3.725
+883,RESULTADOS-1,10,[1],2,3,modelo_rmse_1.pkl,4,3.7251
+884,RESULTADOS-1,42,[1],6,7,modelo_rmse_7.pkl,4,3.735
+885,RESULTADOS-1,13,[1],2,6,modelo_rmse_4.pkl,4,3.7418
+886,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_3.pkl,4,3.7439
+887,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_8.pkl,4,3.7475
+888,RESULTADOS-1,19,[1],3,5,modelo_rmse_6.pkl,4,3.7644
+889,RESULTADOS-1,42,[1],6,7,modelo_rmse_5.pkl,4,3.8045
+890,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_10.pkl,4,3.8078
+891,RESULTADOS-1,14,[1],2,7,modelo_rmse_4.pkl,4,3.8098
+892,RESULTADOS-1,19,[1],3,5,modelo_rmse_10.pkl,4,3.8325
+893,RESULTADOS-1,14,[1],2,7,modelo_rmse_5.pkl,4,3.8564
+894,RESULTADOS-1,13,[1],2,6,modelo_rmse_1.pkl,4,3.8586
+895,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_2.pkl,4,3.8762
+896,RESULTADOS-1,42,[1],6,7,modelo_rmse_1.pkl,4,3.8921
+897,RESULTADOS-1,13,[1],2,6,modelo_rmse_10.pkl,4,3.8984
+898,RESULTADOS-1,18,[1],3,4,modelo_rmse_9.pkl,4,3.9111
+899,RESULTADOS-1,14,[1],2,7,modelo_rmse_6.pkl,4,3.9433
+900,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_5.pkl,4,3.9708
+901,RESULTADOS-1,17,[1],3,3,modelo_rmse_6.pkl,4,3.9963
+902,RESULTADOS-1,19,[1],3,5,modelo_rmse_5.pkl,4,3.9977
+903,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_2.pkl,4,3.9985
+904,RESULTADOS-2,6,"[1, 2, 5, 10, 25, 50]",1,6,modelo_mape_8.pkl,4,4.002
+905,RESULTADOS-1,42,[1],6,7,modelo_rmse_3.pkl,4,4.005
+906,RESULTADOS-1,17,[1],3,3,modelo_rmse_5.pkl,4,4.0106
+907,RESULTADOS-1,17,[1],3,3,modelo_rmse_4.pkl,4,4.0107
+908,RESULTADOS-1,10,[1],2,3,modelo_rmse_7.pkl,4,4.0252
+909,RESULTADOS-1,9,[1],2,2,modelo_rmse_6.pkl,4,4.0274
+910,RESULTADOS-1,18,[1],3,4,modelo_rmse_2.pkl,4,4.0436
+911,RESULTADOS-1,11,[1],2,4,modelo_rmse_1.pkl,4,4.0444
+912,RESULTADOS-1,17,[1],3,3,modelo_rmse_9.pkl,4,4.0479
+913,RESULTADOS-1,18,[1],3,4,modelo_rmse_1.pkl,4,4.0485
+914,RESULTADOS-1,16,[1],3,2,modelo_rmse_5.pkl,4,4.0531
+915,RESULTADOS-1,16,[1],3,2,modelo_rmse_3.pkl,4,4.056
+916,RESULTADOS-1,16,[1],3,2,modelo_rmse_9.pkl,4,4.056
+917,RESULTADOS-1,16,[1],3,2,modelo_rmse_7.pkl,4,4.0577
+918,RESULTADOS-1,16,[1],3,2,modelo_rmse_1.pkl,4,4.0615
+919,RESULTADOS-1,14,[1],2,7,modelo_rmse_8.pkl,4,4.0716
+920,RESULTADOS-1,9,[1],2,2,modelo_rmse_3.pkl,4,4.0723
+921,RESULTADOS-1,9,[1],2,2,modelo_rmse_4.pkl,4,4.0758
+922,RESULTADOS-1,16,[1],3,2,modelo_rmse_4.pkl,4,4.0867
+923,RESULTADOS-1,17,[1],3,3,modelo_rmse_1.pkl,4,4.0877
+924,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_5.pkl,4,4.0976
+925,RESULTADOS-1,13,[1],2,6,modelo_rmse_5.pkl,4,4.1031
+926,RESULTADOS-1,14,[1],2,7,modelo_rmse_9.pkl,4,4.1046
+927,RESULTADOS-1,14,[1],2,7,modelo_rmse_1.pkl,4,4.1067
+928,RESULTADOS-1,12,[1],2,5,modelo_rmse_7.pkl,4,4.107
+929,RESULTADOS-1,11,[1],2,4,modelo_rmse_7.pkl,4,4.1224
+930,RESULTADOS-1,17,[1],3,3,modelo_rmse_8.pkl,4,4.1233
+931,RESULTADOS-1,18,[1],3,4,modelo_rmse_8.pkl,4,4.1277
+932,RESULTADOS-1,13,[1],2,6,modelo_rmse_3.pkl,4,4.1318
+933,RESULTADOS-2,7,"[1, 2, 5, 10, 25, 50]",1,7,modelo_mape_1.pkl,4,4.1324
+934,RESULTADOS-1,13,[1],2,6,modelo_rmse_8.pkl,4,4.1335
+935,RESULTADOS-1,4,[1],1,4,modelo_rmse_7.pkl,4,4.1376
+936,RESULTADOS-1,12,[1],2,5,modelo_rmse_2.pkl,4,4.1448
+937,RESULTADOS-1,13,[1],2,6,modelo_rmse_2.pkl,4,4.1513
+938,RESULTADOS-1,4,[1],1,4,modelo_rmse_10.pkl,4,4.153
+939,RESULTADOS-1,18,[1],3,4,modelo_rmse_5.pkl,4,4.1584
+940,RESULTADOS-1,19,[1],3,5,modelo_rmse_8.pkl,4,4.1598
+941,RESULTADOS-1,12,[1],2,5,modelo_rmse_4.pkl,4,4.1675
+942,RESULTADOS-1,14,[1],2,7,modelo_rmse_2.pkl,4,4.1776
+943,RESULTADOS-1,10,[1],2,3,modelo_rmse_5.pkl,4,4.1796
+944,RESULTADOS-1,12,[1],2,5,modelo_rmse_3.pkl,4,4.18
+945,RESULTADOS-1,12,[1],2,5,modelo_rmse_1.pkl,4,4.1825
+946,RESULTADOS-1,11,[1],2,4,modelo_rmse_8.pkl,4,4.1928
+947,RESULTADOS-1,12,[1],2,5,modelo_rmse_8.pkl,4,4.1954
+948,RESULTADOS-1,10,[1],2,3,modelo_rmse_2.pkl,4,4.2028
+949,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_10.pkl,4,4.2062
+950,RESULTADOS-1,5,[1],1,5,modelo_rmse_10.pkl,4,4.2113
+951,RESULTADOS-1,11,[1],2,4,modelo_rmse_3.pkl,4,4.212
+952,RESULTADOS-1,11,[1],2,4,modelo_rmse_5.pkl,4,4.2144
+953,RESULTADOS-1,10,[1],2,3,modelo_rmse_4.pkl,4,4.2181
+954,RESULTADOS-1,19,[1],3,5,modelo_rmse_7.pkl,4,4.2202
+955,RESULTADOS-1,17,[1],3,3,modelo_rmse_7.pkl,4,4.234
+956,RESULTADOS-1,12,[1],2,5,modelo_rmse_10.pkl,4,4.2412
+957,RESULTADOS-1,14,[1],2,7,modelo_rmse_3.pkl,4,4.2433
+958,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_9.pkl,4,4.2433
+959,RESULTADOS-1,10,[1],2,3,modelo_rmse_8.pkl,4,4.2471
+960,RESULTADOS-1,16,[1],3,2,modelo_rmse_6.pkl,4,4.2486
+961,RESULTADOS-1,13,[1],2,6,modelo_rmse_6.pkl,4,4.261
+962,RESULTADOS-1,19,[1],3,5,modelo_rmse_2.pkl,4,4.2679
+963,RESULTADOS-1,14,[1],2,7,modelo_rmse_10.pkl,4,4.271
+964,RESULTADOS-1,12,[1],2,5,modelo_rmse_9.pkl,4,4.3079
+965,RESULTADOS-2,4,"[1, 2, 5, 10, 25, 50]",1,4,modelo_mape_8.pkl,4,4.3686
+966,RESULTADOS-1,17,[1],3,3,modelo_rmse_3.pkl,4,4.3935
+967,RESULTADOS-1,10,[1],2,3,modelo_rmse_6.pkl,4,4.397
+968,RESULTADOS-1,18,[1],3,4,modelo_rmse_4.pkl,4,4.4121
+969,RESULTADOS-1,15,[1],3,1,modelo_rmse_2.pkl,4,4.4249
+970,RESULTADOS-1,15,[1],3,1,modelo_rmse_5.pkl,4,4.4249
+971,RESULTADOS-1,15,[1],3,1,modelo_rmse_7.pkl,4,4.4249
+972,RESULTADOS-1,15,[1],3,1,modelo_rmse_10.pkl,4,4.4357
+973,RESULTADOS-1,15,[1],3,1,modelo_rmse_8.pkl,4,4.4357
+974,RESULTADOS-1,45,[1],7,3,modelo_rmse_3.pkl,4,4.4408
+975,RESULTADOS-1,16,[1],3,2,modelo_rmse_2.pkl,4,4.4648
+976,RESULTADOS-1,18,[1],3,4,modelo_rmse_3.pkl,4,4.4828
+977,RESULTADOS-1,13,[1],2,6,modelo_rmse_7.pkl,4,4.507
+978,RESULTADOS-1,9,[1],2,2,modelo_rmse_8.pkl,4,4.5128
+979,RESULTADOS-1,9,[1],2,2,modelo_rmse_9.pkl,4,4.5327
+980,RESULTADOS-1,9,[1],2,2,modelo_rmse_5.pkl,4,4.5329
+981,RESULTADOS-1,17,[1],3,3,modelo_rmse_10.pkl,4,4.5366
+982,RESULTADOS-1,9,[1],2,2,modelo_rmse_7.pkl,4,4.5584
+983,RESULTADOS-1,9,[1],2,2,modelo_rmse_10.pkl,4,4.5611
+984,RESULTADOS-1,17,[1],3,3,modelo_rmse_2.pkl,4,4.5709
+985,RESULTADOS-1,5,[1],1,5,modelo_rmse_1.pkl,4,4.6013
+986,RESULTADOS-1,42,[1],6,7,modelo_rmse_2.pkl,4,4.6075
+987,RESULTADOS-1,18,[1],3,4,modelo_rmse_7.pkl,4,4.6216
+988,RESULTADOS-1,12,[1],2,5,modelo_rmse_6.pkl,4,4.6294
+989,RESULTADOS-1,42,[1],6,7,modelo_rmse_10.pkl,4,4.6536
+990,RESULTADOS-1,46,[1],7,4,modelo_rmse_7.pkl,4,4.6913
+991,RESULTADOS-1,19,[1],3,5,modelo_rmse_4.pkl,4,4.8585
+992,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_1.pkl,4,5.0687
+993,RESULTADOS-2,5,"[1, 2, 5, 10, 25, 50]",1,5,modelo_mape_6.pkl,4,5.0687
+994,RESULTADOS-1,19,[1],3,5,modelo_rmse_3.pkl,4,5.1036
+995,RESULTADOS-1,42,[1],6,7,modelo_rmse_8.pkl,4,5.1281
+996,RESULTADOS-1,45,[1],7,3,modelo_rmse_7.pkl,4,5.3671
+997,RESULTADOS-1,8,[1],2,1,modelo_rmse_1.pkl,4,5.4344
+998,RESULTADOS-1,8,[1],2,1,modelo_rmse_10.pkl,4,5.4344
+999,RESULTADOS-1,8,[1],2,1,modelo_rmse_2.pkl,4,5.4344
+1000,RESULTADOS-1,8,[1],2,1,modelo_rmse_3.pkl,4,5.4344
+1001,RESULTADOS-1,8,[1],2,1,modelo_rmse_4.pkl,4,5.4344
+1002,RESULTADOS-1,8,[1],2,1,modelo_rmse_5.pkl,4,5.4344
+1003,RESULTADOS-1,8,[1],2,1,modelo_rmse_6.pkl,4,5.4344
+1004,RESULTADOS-1,8,[1],2,1,modelo_rmse_7.pkl,4,5.4344
+1005,RESULTADOS-1,8,[1],2,1,modelo_rmse_8.pkl,4,5.4344
+1006,RESULTADOS-1,8,[1],2,1,modelo_rmse_9.pkl,4,5.4344
+1007,RESULTADOS-1,19,[1],3,5,modelo_rmse_1.pkl,4,5.5826
+1008,RESULTADOS-1,11,[1],2,4,modelo_rmse_10.pkl,4,5.646
+1009,RESULTADOS-1,42,[1],6,7,modelo_rmse_4.pkl,4,5.7214
+1010,RESULTADOS-1,18,[1],3,4,modelo_rmse_6.pkl,4,5.8963
+1011,RESULTADOS-1,16,[1],3,2,modelo_rmse_10.pkl,4,6.4471
+1012,RESULTADOS-1,11,[1],2,4,modelo_rmse_4.pkl,4,6.5068
+1013,RESULTADOS-3,47,"[1, 2, 5, 10]",7,5,modelo_rmse_2.pkl,2,7.9071
+1014,RESULTADOS-1,11,[1],2,4,modelo_rmse_6.pkl,4,9.7489
+1015,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_4.pkl,2,10.0279
+1016,RESULTADOS-3,33,"[1, 2, 5, 10]",5,5,modelo_rmse_9.pkl,3,12.0142
+1017,RESULTADOS-3,13,"[1, 2, 5, 10]",2,6,modelo_rmse_6.pkl,4,13.2661
+1018,RESULTADOS-3,28,"[1, 2, 5, 10]",4,7,modelo_rmse_1.pkl,3,13.9785
+1019,RESULTADOS-1,9,[1],2,2,modelo_rmse_2.pkl,3,18.2554
+1020,RESULTADOS-3,39,"[1, 2, 5, 10]",6,4,modelo_rmse_8.pkl,2,19.3603

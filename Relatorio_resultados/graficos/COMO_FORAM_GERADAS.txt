@@ -1,0 +1,172 @@
+COMO CADA IMAGEM FOI AVALIADA E GERADA
+========================================
+Atualizado em: 2026-08-13
+Dataset base: 102 treinamentos válidos (1020 modelos), após a revalidação de
+RESULTADOS-2/Treinamento_4 a 10 (que estavam em MAPE e foram recalculados em RMSE).
+
+
+DE ONDE VÊM OS DADOS
+---------------------
+Todas as imagens desta pasta são geradas por scripts Python (não desenhadas
+manualmente), a partir de duas fontes:
+
+1. dados_consolidados.csv (em ../tabelas/) — uma linha por combinação de
+   (pasta, treinamento, modelo, pista de validação). Cada linha traz o RMSE_Vx,
+   RMSE_Vy e RMSE_Médio calculados pelo próprio pipeline de treino MGGP nas 4
+   pistas Wang (2.1 Treino, 2.2 Validação, 3.1 Teste A, 8.1 Teste B).
+
+2. ranking_geral.csv (em ../tabelas/) — o RMSE médio de CADA MODELO calculado
+   como a média das 4 pistas daquele modelo específico. É esse número (não o
+   RMSE de uma pista isolada) que usamos para comparar "qual modelo é melhor".
+
+Antes de qualquer gráfico ser desenhado, os dados passam por 3 filtros:
+
+a) Só entram treinamentos com nDelays igual ao valor correto da pasta
+   (RESULTADOS-1=[1], RESULTADOS-2=[1,2,5,10,25,50], RESULTADOS-3=[1,2,5,10]).
+   Treinamentos com nDelays errado (erro de configuração de máquina) ficam de
+   fora — lista completa em ../tabelas/log_exclusoes.csv.
+
+b) Só entram treinamentos que têm relatorio_validacao com colunas RMSE de
+   verdade. RESULTADOS-2/Treinamento_4 a 10 estavam com relatório em MAPE;
+   foram revalidados (script revalidar_rmse.py, rodado por você no VS Code)
+   recarregando os modelos .pkl já treinados e recalculando o RMSE nas 4
+   pistas — sem precisar retreinar nada.
+
+c) Linhas com RMSE infinito ou absurdamente alto (ex: 1e25) — modelos MGGP que
+   divergiram numericamente em alguma pista específica — são removidas
+   individualmente (só aquela linha, não o modelo inteiro). Lista completa em
+   ../tabelas/outliers_removidos.csv. Foram 20 linhas removidas de 3800+.
+
+
+1. boxplot_por_pasta.png
+-------------------------
+O que mostra: a distribuição do RMSE médio dos modelos, agrupada por pasta
+(RESULTADOS-1/2/3), ou seja, por valor de nDelays usado.
+
+Como foi calculado: para cada modelo (950 -> agora 1020 depois da
+revalidação), calculei a média do RMSE_Médio nas 4 pistas. Esses valores
+foram agrupados por pasta e plotados como boxplot (caixa = 25º a 75º
+percentil, linha laranja = mediana, triângulo verde = média, pontos =
+outliers estatísticos do próprio boxplot, ou seja, valores muito acima do
+"normal" daquela pasta específica).
+
+Por que assim: o boxplot é o jeito padrão de comparar a distribuição inteira
+(não só a média) de 3 grupos com número de amostras diferentes — mostra de
+uma vez mediana, dispersão e outliers.
+
+n por pasta neste momento: RESULTADOS-1 = 440, RESULTADOS-2 = 100 (subiu de
+30 após a revalidação), RESULTADOS-3 = 480.
+
+
+2. boxplot_por_pista.png
+--------------------------
+O que mostra: a distribuição do RMSE médio (Vx,Vy), agrupada por pista de
+validação (Wang 2.1, 2.2, 3.1, 8.1), somando todas as pastas juntas.
+
+Como foi calculado: agrupei todas as linhas de dados_consolidados.csv por
+pista e plotei o RMSE_Médio de cada uma como boxplot.
+
+Por que assim: mostra se alguma pista é sistematicamente mais difícil de
+prever que as outras, independente de qual treinamento/pasta gerou o modelo.
+
+
+3. heatmap_nterms_maxheight.png
+---------------------------------
+O que mostra: o RMSE médio (cor: verde=bom, vermelho=ruim), para cada
+combinação de nTerms (eixo Y) x maxHeight (eixo X), somando as 3 pastas
+juntas.
+
+Como foi calculado: para cada combinação nTerms x maxHeight (49 combinações
+possíveis, 7x7), calculei a média do RMSE_Médio de todos os modelos que
+usaram aquela combinação, independente de pasta/nDelays.
+
+Por que assim: como as pastas usam nDelays diferentes, mas TODAS varrem a
+mesma grade nTerms=1..7 x maxHeight=1..7, esse gráfico responde "que
+complexidade de modelo (nTerms/maxHeight) tende a funcionar melhor",
+juntando o máximo de dados possível.
+
+Achado: nTerms=2 e nTerms=3 saem visivelmente piores (laranja/vermelho) que
+os demais valores de nTerms, quase independente do maxHeight escolhido.
+
+
+4. evolucao_treinamento.png
+------------------------------
+O que mostra: o RMSE médio dos 10 modelos de cada Treinamento_N, ao longo da
+sequência de treinamentos (eixo X = número do treinamento), uma linha por
+pasta.
+
+Como foi calculado: para cada (pasta, treinamento), tirei a média do RMSE
+médio dos modelos daquele treinamento, e liguei os pontos em ordem de ID de
+treinamento.
+
+Por que assim: como o ID do treinamento é uma varredura sequencial de nTerms
+crescente (e dentro de cada nTerms, maxHeight de 1 a 7), esse gráfico mostra
+visualmente os "blocos" de nTerms e se RMSE melhora conforme a complexidade
+aumenta.
+
+
+5. comparacao_vx_vy.png
+--------------------------
+O que mostra: dispersão (scatter) do RMSE_Vx (eixo X) contra RMSE_Vy (eixo
+Y) de cada linha modelo+pista, colorido por pasta. A linha tracejada cinza é
+a diagonal Vx=Vy — pontos acima dela erram mais em Vy que em Vx, e vice-versa.
+
+Como foi calculado: plotei RMSE_Vx vs RMSE_Vy de cada linha individual
+(modelo x pista), filtrando para RMSE < 50 nos dois eixos (só para não
+esmagar a escala com os outliers extremos já documentados em
+outliers_removidos.csv — aqui é um recorte visual, os outliers continuam nas
+tabelas e no cálculo do ranking normalmente).
+
+Por que assim: ajuda a ver se o modelo MIMO tem viés sistemático — erra mais
+consistentemente numa saída (Vx ou Vy) que na outra.
+
+
+6. comparacao_vx_vy_top10.png
+--------------------------------
+O que mostra: o mesmo gráfico de dispersão RMSE_Vx vs RMSE_Vy, mas restrito
+apenas aos 10 melhores modelos do ranking (em vez de todos os ~1000). Cada
+modelo tem uma cor própria (legenda "Modelo") e cada pista de validação um
+formato de marcador próprio — círculo, quadrado, triângulo, losango (legenda
+"Pista"). Cada modelo aparece com até 4 pontos (um por pista).
+
+Como foi calculado: peguei as 10 primeiras linhas de ranking_geral.csv (já
+ordenado por RMSE médio) e filtrei dados_consolidados.csv para essas 10
+combinações (pasta, treinamento, modelo), plotando as 4 pistas de cada uma.
+
+Por que assim: o gráfico geral (comparacao_vx_vy.png) tem ~4000 pontos
+sobrepostos e não dá pra distinguir modelos individuais. Este recorte foca
+só nos melhores, permitindo ver o comportamento pista a pista de cada um.
+
+Achado: nos 10 melhores modelos, a maioria dos pontos fica abaixo da
+diagonal Vx=Vy — ou seja, mesmo os melhores modelos tendem a errar mais em
+Vy do que em Vx.
+
+
+7. top10_modelos.png
+-----------------------
+O que mostra: os 10 modelos com menor RMSE médio, de todo o dataset (todas
+as pastas juntas), em ordem crescente de erro (melhor no topo).
+
+Como foi calculado: ordenei ranking_geral.csv pelo RMSE médio do modelo e
+peguei as 10 primeiras linhas.
+
+Por que assim: resposta direta a "qual foi o melhor modelo" — sem médias ou
+agregações, são os 10 modelos individuais de melhor desempenho.
+
+Achado atual: RESULTADOS-3 domina o top 10 (8 dos 10 melhores), com
+destaque para Treinamento_49 (nTerms=7, maxHeight=7). O melhor modelo
+geral é RESULTADOS-3/Treinamento_49/modelo_rmse_9.pkl, RMSE médio 0.2138.
+Nenhum modelo do RESULTADOS-2 (nDelays maior, mais complexo) aparece no
+top 10 até agora.
+
+
+COMO REGERAR TUDO
+-------------------
+cd TreinamentoMGGP_2_0/Relatorio_resultados/scripts
+python coletar_dados.py
+python gerar_tabelas.py
+python gerar_graficos.py
+
+Os 3 scripts varrem o disco do zero a cada execução — treinamentos novos
+(desde que tenham nDelays correto e relatorio_validacao em RMSE) entram
+automaticamente, sem precisar editar nada.

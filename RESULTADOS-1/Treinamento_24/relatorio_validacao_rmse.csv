@@ -1,0 +1,41 @@
+Modelo;Pista;RMSE_Vx;RMSE_Vy;RMSE_Médio
+modelo_rmse_1.pkl;Wang 2.1 (Treino);0,3566;0,261;0,3088
+modelo_rmse_1.pkl;Wang 2.2 (Validação);0,3645;0,2076;0,2861
+modelo_rmse_1.pkl;Wang 3.1 (Teste A);0,2201;0,2445;0,2323
+modelo_rmse_1.pkl;Wang 8.1 (Teste B);0,2559;0,4135;0,3347
+modelo_rmse_2.pkl;Wang 2.1 (Treino);1,4728;0,288;0,8804
+modelo_rmse_2.pkl;Wang 2.2 (Validação);1,3779;0,1537;0,7658
+modelo_rmse_2.pkl;Wang 3.1 (Teste A);0,9101;0,2107;0,5604
+modelo_rmse_2.pkl;Wang 8.1 (Teste B);0,808;0,4127;0,6103
+modelo_rmse_3.pkl;Wang 2.1 (Treino);1,3398;0,2411;0,7904
+modelo_rmse_3.pkl;Wang 2.2 (Validação);1,3402;0,1514;0,7458
+modelo_rmse_3.pkl;Wang 3.1 (Teste A);0,8496;0,1953;0,5224
+modelo_rmse_3.pkl;Wang 8.1 (Teste B);0,8114;0,4317;0,6216
+modelo_rmse_4.pkl;Wang 2.1 (Treino);1,0988;0,2925;0,6956
+modelo_rmse_4.pkl;Wang 2.2 (Validação);1,3619;0,1852;0,7735
+modelo_rmse_4.pkl;Wang 3.1 (Teste A);0,9101;0,2875;0,5988
+modelo_rmse_4.pkl;Wang 8.1 (Teste B);0,8059;0,3828;0,5943
+modelo_rmse_5.pkl;Wang 2.1 (Treino);1,2825;0,2976;0,79
+modelo_rmse_5.pkl;Wang 2.2 (Validação);1,2194;0,2358;0,7276
+modelo_rmse_5.pkl;Wang 3.1 (Teste A);0,6795;0,1981;0,4388
+modelo_rmse_5.pkl;Wang 8.1 (Teste B);0,7285;0,5667;0,6476
+modelo_rmse_6.pkl;Wang 2.1 (Treino);0,3525;0,2547;0,3036
+modelo_rmse_6.pkl;Wang 2.2 (Validação);0,3618;0,2194;0,2906
+modelo_rmse_6.pkl;Wang 3.1 (Teste A);0,2233;0,2035;0,2134
+modelo_rmse_6.pkl;Wang 8.1 (Teste B);0,2602;0,5967;0,4285
+modelo_rmse_7.pkl;Wang 2.1 (Treino);1,0488;0,3537;0,7012
+modelo_rmse_7.pkl;Wang 2.2 (Validação);1,2534;0,2326;0,743
+modelo_rmse_7.pkl;Wang 3.1 (Teste A);0,7495;0,3128;0,5311
+modelo_rmse_7.pkl;Wang 8.1 (Teste B);0,7975;0,3607;0,5791
+modelo_rmse_8.pkl;Wang 2.1 (Treino);0,543;0,3148;0,4289
+modelo_rmse_8.pkl;Wang 2.2 (Validação);0,5932;0,2026;0,3979
+modelo_rmse_8.pkl;Wang 3.1 (Teste A);0,3825;0,3114;0,3469
+modelo_rmse_8.pkl;Wang 8.1 (Teste B);0,3815;0,404;0,3928
+modelo_rmse_9.pkl;Wang 2.1 (Treino);0,3511;0,269;0,31
+modelo_rmse_9.pkl;Wang 2.2 (Validação);0,4093;0,2378;0,3236
+modelo_rmse_9.pkl;Wang 3.1 (Teste A);0,2791;0,2772;0,2781
+modelo_rmse_9.pkl;Wang 8.1 (Teste B);0,2841;0,3914;0,3377
+modelo_rmse_10.pkl;Wang 2.1 (Treino);1,0314;0,2891;0,6603
+modelo_rmse_10.pkl;Wang 2.2 (Validação);1,3527;0,1957;0,7742
+modelo_rmse_10.pkl;Wang 3.1 (Teste A);0,9291;0,2814;0,6052
+modelo_rmse_10.pkl;Wang 8.1 (Teste B);0,7942;0,3435;0,5688
